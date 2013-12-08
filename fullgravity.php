@@ -3,10 +3,10 @@
 /*
   Plugin Name: Full Gravity
   Plugin URI: http://fullgravity.tk
-  Description: Adds Full Contact Data To Gravity Forms Entry Detail Page
+  Description: Full Gravity leverages the Full Contact Person API in order to take incomplete and incorrect contacts in Gravity Forms and turn them into complete contacts with rich social profiles.
   Author: Taylor Hicks
   Version: 1.0
-  Author URI: http://newsite.taylormhicks.com
+  Author URI: http://taylormhicks.com
  */
 
 class tmh_full_gravity {
