@@ -5,7 +5,7 @@
   Plugin URI: http://fullgravity.tk
   Description: Full Gravity leverages the Full Contact Person API in order to take incomplete and incorrect contacts in Gravity Forms and turn them into complete contacts with rich social profiles.
   Author: Taylor Hicks
-  Version: 1.0
+  Version: 1.1
   Author URI: http://taylormhicks.com
  */
 
