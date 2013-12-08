@@ -8,10 +8,11 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: Gravity Forms, Full Contact
 
-Adds Full Contact Data To Gravity Forms Entry Detail Page.
+Full Contact in Gravity Forms
 
 == Description ==
-Adds Full Contact Data To Gravity Forms Entry Detail Page. Uses the first form field of type 'email' for the full contact person api call.
+Full Gravity leverages the Full Contact Person API in order to take incomplete and incorrect contacts in Gravity Forms and turn them into complete contacts with rich social profiles. 
+
 
 == Installation ==
 
