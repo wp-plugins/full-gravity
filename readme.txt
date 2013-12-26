@@ -1,8 +1,8 @@
 === Plugin Name ===
-Contributors: TaylorHicks
+Contributors: TaylorHicks ,
 Donate link: http://www.fullgravity.tk
 Requires at least: 3.5
-Tested up to: 3.7.1
+Tested up to: 3.8
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,14 +22,13 @@ Full Gravity leverages the Full Contact Person API in order to take incomplete a
 4. Enter Full Contact API key in Full Gravity Settings
 
 == Frequently Asked Questions ==
-Q. Why write this?
-A. Because I can.
+
 == Screenshots ==
 
-1. Gravity Forms Entry Details Before
-2. Gravity Forms Entry Details After
 
 == Changelog ==
-
+= 1.1 =
+* Minor Code refactoring
+* Added output for errors, and a response if nothing is returned from full contact
 = 1.0 =
 * Public Release
